@@ -1,0 +1,10 @@
+﻿Connection string:
+DRIVER=SQL Server Native Client 11.0;DATABASE=ExhHub;WSID=DESKTOP-4R3NNT5;APP=Операционная система Microsoft® Windows®;Trusted_Connection=Yes;SERVER=DESKTOP-4R3NNT5\SQLEXPRESS
+
+
+
+
+time_point:
+2020-08-09 23:59:57
+
+

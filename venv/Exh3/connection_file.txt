@@ -1,0 +1,14 @@
+﻿Connection string:
+DRIVER=SQL Server Native Client 11.0;DATABASE=ExhHub;WSID=DESKTOP-4R3NNT5;APP=Операционная система Microsoft® Windows®;Trusted_Connection=Yes;SERVER=DESKTOP-4R3NNT5\SQLEXPRESS
+
+Adress Logfile:
+C:\Users\Nevolin_AV\PycharmProjects\TransferDB
+
+time_point:
+2022-09-30 14:28:13
+
+command
+Подтвердить все аварии механизмов потока №3
+
+status commadn
+Подана
